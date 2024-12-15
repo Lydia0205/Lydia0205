@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, thanks for stopping by!</h1>
 <p align="center"><strong>My name is Lydia Pan, a PhD student focusing on Bayesian statistics</strong></p>
 
----
+
 
 ### 🌟 About Me
 - 🔬 **Current Project**: Meta-analysis using the **Bayesian framework**.  
@@ -10,11 +10,11 @@
 - 📬 **Contact**: [wenqisi.pan@uta.edu](mailto:wenqisi.pan@uta.edu)  
 - ⚡ **Fun Fact**: I have a bunch of **NOT fun facts** 😅.
 
----
+
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
@@ -24,11 +24,11 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
----
+
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:wenqisi.pan@uta.edu">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -37,15 +37,15 @@
   </a>
 </p>
 
----
+
 
 ### 🖼️ Highlights
 
-<p align="center">
+<p align="left">
   <img src="image.png" alt="Lydia's Project Highlight" width="70%" />
 </p>
 
----
+
 
 ### 🚀 Current Goals
 
@@ -53,8 +53,7 @@
 - 🤝 Collaborate with researchers on **meta-analysis frameworks**.  
 - 🛠️ Improve skills in **machine learning** and **data science tools**.
 
----
 
 <p align="center">
-  <em>Thanks for stopping by! 😊</em>
+  <em>Nice to meet you 😊</em>
 </p>
