@@ -8,7 +8,6 @@
 - 🌱 **Learning**: Deepening my knowledge in **Bayesian statistics**.  
 - 👯 **Collaboration**: Interested in **biomedical applications of Bayesian statistics**.  
 - 📬 **Contact**: [wenqisi.pan@uta.edu](mailto:wenqisi.pan@uta.edu)  
-- ⚡ **Fun Fact**: I have a bunch of **NOT fun facts** 😅.
 
 
 
